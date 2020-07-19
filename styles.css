@@ -1,0 +1,28 @@
+body{
+  background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8839605a-0eae-48c2-962a-51d1d75010e7/dhgmgr-a83eebfb-0aa1-4fb0-815d-f427c07716b2.jpg/v1/fill/w_1818,h_1228,q_75,strp/medieval_courtyard_by_alfrodull.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi84ODM5NjA1YS0wZWFlLTQ4YzItOTYyYS01MWQxZDc1MDEwZTcvZGhnbWdyLWE4M2VlYmZiLTBhYTEtNGZiMC04MTVkLWY0MjdjMDc3MTZiMi5qcGciLCJ3aWR0aCI6Ijw9MTgxOCIsImhlaWdodCI6Ijw9MTIyOCJ9XV19.p3dQav8vTqYUrJyUKKmwUbUo188_Le-qMYQwkldKrj8");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+h1{
+  text-align: center;
+  color: #CD853F;
+  font-family: fantasy;
+}
+button{
+  background-color: #00BFFF;
+  border-radius: 13px;
+}
+footer{
+  text-align: center;
+  position: relative;
+  top: 440px;
+}
+.input-holder{
+  padding-left: 25%;
+}
+#charcter_announcement{
+  width: 75%;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: center;
+}
